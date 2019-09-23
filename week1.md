@@ -20,10 +20,35 @@ uses the same maths as other languages, ie BODMAS. Don't be a dick and forget th
 in an expression, call a function with an argument. Do stuff with the argument within the function & returns the result.
 Seeems similar to what a generator would be in Python??
 
+- If an expression is being used as an argument, put it in parens. Precedence & shite.
 
+- assign a name to an equation like in any other language. basically declares a constant (doesn't change value, so the name can only be used once)
+
+"This is part of the meaning of “pure” and “no side effects”
+
+
+`n = n + 1` or `n := n + 1` ==> recursion. This assigns the value of n + 1 to n. Wtff.
 
 
 ___
+
+
+## Functions
+
+abs  - absolute value
+min
+max
+
+___
+
+
+## Good practice notes
+Parens (bodmas?)
+___
+
+
+
+
 
 Types
 
